@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "highland": "^3.0.0-beta.2",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.9"
   }
 }
